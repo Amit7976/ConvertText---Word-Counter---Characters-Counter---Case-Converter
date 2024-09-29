@@ -1,3 +1,6 @@
+## See [Live Preview](https://convert-text-word-counter-and-characters-counter-case-converter.vercel.app) of this Project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
